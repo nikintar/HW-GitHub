@@ -1,0 +1,38 @@
+pwd где находимся
+    
+mkdir (make создание директории)
+ls -la что в папке (ls лист)
+touch создание файла
+cat проверить что в файле
+cat >> имя файла режим редактирования
+cat > называвем файлик (создание файла)
+cd .. выйти из папки
+cd ../../../ выход на столько директорий на сколько вам нужно
+vim текстовый редактор
+i режим редактирования
+esc выход из режима редакт
+:wq сохранение
+:!q выйти из сохранения
+mv (что пробел куда) перемещение файла 
+cp (что пробел куда) copy
+rm (remove file)
+rm -r (remove cataloge with all) or rmdir
+mv q11.txt q99.txt (rename)
+cd просто выходит в корень
+
+
+git clone 
+git add имя файла
+git add . добавляет все файлы в папке
+git status
+git commit -m "fashfasohfhsf"
+git push
+git commit -am 
+
+git branch 
+git checkout -b создать ветку и провалиться в нее
+git checkout перейти
+git fetch есть ли репозитории изменения 
+git pul  натянул на себя изменения с внешнего на локальный
+git merge ad -m "merge_ad"  мердж 
+git push -u origin присоединяем ветку в репозиторий
